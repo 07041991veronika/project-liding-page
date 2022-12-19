@@ -7,17 +7,13 @@
 }
 
 .container{
-    width: 1280px;
-    max-width:90%; 
-    min-width: 500px ;
+    max-width:1280px;
     margin: 0 auto;
 }
 
 .header {
-    position: absolute;
-    width: 1280px;
-    max-width:90%; 
-    min-width: 500px;
+    position: relative;
+    max-width:1280px;
     height: 3000px; 
     left: 0px;
     top: 0 px;
