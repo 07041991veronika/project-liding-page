@@ -14,7 +14,7 @@
 }
 
 .header {
-    position: relative;
+    position:flex;
     width: 1280px;
     max-width:90%; 
     min-width: 500px;
